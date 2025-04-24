@@ -1,3 +1,5 @@
+![bayside-bistro-mockup](https://github.com/user-attachments/assets/465c661d-e861-4eb8-a8ff-ec3359ce6c13)
+
 # Bayside Bistro
 
 ## Overview
