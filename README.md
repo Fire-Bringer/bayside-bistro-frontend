@@ -57,24 +57,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Restaurant Email - info@baysidebistro.com
 Project Link: [https://github.com/yourusername/bayside-bistro](https://github.com/yourusername/bayside-bistro)
 \`\`\`
-
-I've created a README.md file for the Bayside Bistro project. This README includes standard sections like overview, features, technology stack, installation instructions, project structure, contribution guidelines, licensing information, and contact details.
-
-Since I don't have access to the actual package.json file, I've made some assumptions about the project based on the workspace name. You may want to update specific details like:
-
-1. The actual GitHub repository URL
-2. Specific dependencies and versions from your package.json
-3. Any custom scripts defined in your package.json
-4. The correct license that your project uses
-5. Accurate contact information
-
-<Actions>
-<Action name="Add project screenshots" description="Add screenshots of the website to the README" />
-<Action name="Include API documentation" description="Add API endpoints documentation if applicable" />
-<Action name="Add deployment instructions" description="Include detailed deployment instructions for production" />
-<Action name="Create a CONTRIBUTING.md" description="Create a separate file with detailed contribution guidelines" />
-<Action name="Add environment variables setup" description="Document required environment variables" />
-</Actions>
-
-\`\`\`
-
