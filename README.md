@@ -1,5 +1,3 @@
-![bayside-bistro-mockup](https://github.com/user-attachments/assets/465c661d-e861-4eb8-a8ff-ec3359ce6c13)
-
 # Bayside Bistro
 
 ## Overview
@@ -12,6 +10,8 @@ Bayside Bistro is a modern web application for a restaurant, providing an online
 - **Online Reservations**: Book a table directly through our website
 - **Contact Information**: Find our location, hours, and contact details
 - **Responsive Design**: Optimized for all devices from mobile to desktop
+
+![bayside-bistro-mockup](https://github.com/user-attachments/assets/465c661d-e861-4eb8-a8ff-ec3359ce6c13)
 
 ## Technology Stack
 
